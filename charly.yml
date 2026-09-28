@@ -1,7 +1,5 @@
-version: 2026.232.0520
 ssh-client:
     candy:
-        version: 2026.144.1443
         description: |
             OpenSSH client tools for SSH agent forwarding
             ssh-client installs the OpenSSH client package (openssh-clients on
